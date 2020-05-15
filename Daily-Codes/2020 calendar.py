@@ -1,4 +1,7 @@
 code=[2,5,6,2,4,0,2,5,1,3,6,1]
+
+# The above codes are fetched by looking at each and every month of the year 2020. It is just the difference between Sunday and the date 1
+
 months={"Jan":1,"Feb":2,"Mar":3,"Apr":4,"May":5,"Jun":6,"Jul":7,"Aug":8,"Sep":9,"Oct":10,"Nov":11,"Dec":12}
 date=int(input("Enter the date : "))
 month=input("Enter the first three letters of the month with first letter being capital : ")
